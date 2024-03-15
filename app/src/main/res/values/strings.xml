@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Earthquake</string>
+    <string name="no_earthquakes_right_now">No earthquakes right now</string>
+</resources>
